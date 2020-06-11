@@ -32,5 +32,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ramda": "^0.27.0",
+    "react-icons": "^3.10.0",
+    "react-router-dom": "^5.2.0"
   }
 }

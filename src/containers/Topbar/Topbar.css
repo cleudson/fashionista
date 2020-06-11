@@ -1,0 +1,22 @@
+.topbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    align-items: center;
+}
+.topbar__name{
+    font-size: 26px;
+    font-weight: bold;
+    color: #c958ee;
+    letter-spacing: 0.2em;
+}
+.topbar__name h1{
+    font-size: inherit;
+}
+
+.topbar__icon{
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+    margin-left: 10px
+}

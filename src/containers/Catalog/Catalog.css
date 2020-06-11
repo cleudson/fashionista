@@ -1,0 +1,13 @@
+.catalog__list{
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: repeat( auto-fit, minmax(280px, 370px) );
+    max-width: 100%;
+    justify-content: center;
+}
+.catalog__info{
+    color: #ccc;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 20px;
+}

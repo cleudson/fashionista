@@ -1,0 +1,19 @@
+.search{
+    
+}
+.search label{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 12px;
+    font-style: italic;
+    color: #ddd;
+}
+.search input{
+    width: 100%;
+    border: solid 1px #ccc;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+.search .product{
+    min-width: auto;
+}

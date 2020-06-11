@@ -1,0 +1,10 @@
+.off-canvas{
+    width: 100%;
+    max-width: 320px;
+    float: right;
+    height: 100vh;
+    background: #fff;
+    padding: 15px;
+    overflow: auto;
+    pointer-events: initial;
+}
